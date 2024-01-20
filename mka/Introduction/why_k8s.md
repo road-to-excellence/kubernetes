@@ -1,5 +1,7 @@
 ## Why Kubernetes?
 
+Althouh below will answer the query, still this is a good read blog - [Why should you use Kubernetes?](https://www.softwareone.com/en/blog/articles/2021/03/23/why-kubernetes-2022)
+
 #### 1. Service discovery and load balancing
 - Kubernetes can expose a container using the DNS name or using their own IP address. If traffic to a container is high, Kubernetes is able to load balance and distribute the network traffic so that the deployment is stable.
 #### 2. Storage orchestration
