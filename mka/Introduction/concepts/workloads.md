@@ -15,7 +15,6 @@ Let's see all these workloads one by one.
 ### Pods
 
 Smallest deployable unit that can be manageable by a user in k8s.
-<!---@include:../concepts.md--->
 
 ### Deployments
 
