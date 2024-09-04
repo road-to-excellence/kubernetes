@@ -1,0 +1,1 @@
+Most of the Kubernetes installation methods out there do not get you a cluster with Network Policies feature. You manually need to install and configure a Network Policy provider such as Weave Net or Calico.
